@@ -46,15 +46,10 @@ A dynamic web-based certificate generation application that allows users to crea
 - QRCode.js
 - Bootstrap Bundle
 
-## 📥 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Vamsi46va/certificate-generator.git
 
 Open index.html in a modern web browser
 
-## 📝 Usage
+ 📝 Usage
 
 Register/Login to access the certificate generator
 Fill in the certificate details:
