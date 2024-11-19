@@ -54,7 +54,7 @@ git clone https://github.com/Vamsi46va/certificate-generator.git
 
 Open index.html in a modern web browser
 
-📝 Usage
+## 📝 Usage
 
 Register/Login to access the certificate generator
 Fill in the certificate details:
