@@ -46,6 +46,13 @@ A dynamic web-based certificate generation application that allows users to crea
 - QRCode.js
 - Bootstrap Bundle
 
+- ## 📥 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Vamsi46va/certificate-generator.git
+
+
 
 Open index.html in a modern web browser
 
@@ -95,10 +102,6 @@ Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
 👨‍💻 Author
